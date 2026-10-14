@@ -2,7 +2,9 @@
 
 72.75 Aprendizaje Automático (Machine Learning) · ITBA · 2026 Q2
 
-**Integrantes:** _completar_
+**Integrantes:** -Diego Emiliano Godinez Ortega
+-Thomas Michael Spitzner
+-Guillermo Arturo Ledesma Campos
 
 Predicción de si un cliente contratará un depósito a plazo fijo (`y` = yes/no) a partir de información disponible **antes** de la llamada, para priorizar a quién llamar en una campaña telefónica.
 Dataset: [Bank Marketing (Kaggle)](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing) – 41,188 llamadas, 20 variables, 11.3% de `yes`.
